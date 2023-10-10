@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main>
       <div className="w-full bg-blue-400 flex justify-center">
-        <div className="w-3/5 flex justify-between items-center py-2 text-neutral-50 text-sm">
+        <div className="w-full px-5 lg:px-0 text-xs lg:w-3/5 flex justify-between items-center py-2 text-neutral-50 lg:text-sm">
           <div className="flex gap-2">
             <div className="">We are open 24/7</div>
             <div className="">mail@gmail.com</div>
